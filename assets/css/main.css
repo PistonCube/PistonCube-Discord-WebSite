@@ -1277,6 +1277,18 @@ section,
   /* Add your styles here */
 }
 
+#discordInvitesContainer {
+  width: 100%;
+  max-width: 1200px; /* Adjust this value as needed */
+  margin: 0 auto;
+}
+
+.discordInviteBox {
+  flex: 0 1 auto;
+  min-width: 300px; /* Minimum width for each Discord invite box */
+  margin: 10px;
+}
+
 /* scrollbar */
 ::-webkit-scrollbar {
   width: 10px;

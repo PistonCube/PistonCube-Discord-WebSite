@@ -1,7 +1,7 @@
 const servers = [
     { inviteCode: '283JBXufXm', title: 'PistonProjects Support', introText: 'Mi servidor donde publico mis proyectos:' },
     { inviteCode: 'eKeeZPq6SJ', title: 'PistonCubeBOT Support', introText: 'Soporte para mi bot de Minecraft:' },
-    { inviteCode: 'qEPeKqpXzu', title: '2b2t Argentina Server', introText: 'Discord oficial de 2b2t Argentina:' },
+    { inviteCode: 'XZD5W4Zadc', title: '2b2t Argentina Server', introText: 'Discord oficial de 2b2t Argentina:' },
     { inviteCode: 'xqQCHk5JwU', title: 'ZuruBOT', introText: 'Únete al Discord de soporte de ZuruBOT:' },
     { inviteCode: '5sgp2TW5mp', title: 'HidenCloud Server', introText: 'Únete al Discord de soporte de HidenCloud:' },
     { inviteCode: 'MaXTXuXA6s', title: 'ResistenciaBananera', introText: 'Únete al Discord de ResistenciaBananera:' },
